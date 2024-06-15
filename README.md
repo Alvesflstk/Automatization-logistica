@@ -19,7 +19,7 @@ Este projeto realiza uma automação de interação com o Google Maps para cálc
 1. Clone o repositório:
 
     ```bash
-    git clone 
+    git clone git@github.com:Alvesflstk/Automatization-logistica.git
     ```
 
 2. Instale as dependências necessárias:
